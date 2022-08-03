@@ -15,7 +15,7 @@ import json
 
 cef_path = "perses-main-data-new CEF/data/new CEF/1-Set_1-TD_469866-BOA-PD-TD#_469866-Staph.Aureus_48_0-4h_Rep-1a-Exp_0-PA_0_2022-06-14_11-14-51_1_16eV.cef"
 
-print_results = False
+print_results = True
 
 
 # In[36]:
